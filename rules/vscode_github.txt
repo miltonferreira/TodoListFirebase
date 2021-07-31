@@ -1,0 +1,3 @@
+acessar terminal para associar o projeto ao github do projeto
+
+git remote add origin https://github.com/miltonferreira/TodoListFirebase.git
