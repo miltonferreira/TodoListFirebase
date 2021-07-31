@@ -1,3 +1,7 @@
+ -- Vídeo que ajudou com vscode & github
+ https://www.youtube.com/watch?v=peGUkhXD3Vw
+
 acessar terminal para associar o projeto ao github do projeto
 
 git remote add origin https://github.com/miltonferreira/TodoListFirebase.git
+
